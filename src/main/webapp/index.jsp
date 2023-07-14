@@ -10,6 +10,6 @@ String version=resource.getString("version");%>
 "Successfully for the first project using Maven"</h2>
  <h3>First CICD project is completed for June2023 batch</h3>
  <h4>Welocme to CICD pipeline concept and S# bucket concept</h4>
-<h5>First fully automated devops project is completed</h5>
+<h5>Ansible is complted with playbook and roles concept</h5>
  </body>
 </html>
