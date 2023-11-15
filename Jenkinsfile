@@ -4,7 +4,7 @@ pipeline {
        stage('Build the  Code') {
            steps {
                sh """
-               echo "Building  Artifact for project samplewebapp"
+               echo "Building   Artifact for project samplewebapp"
 			   """
                
            }
