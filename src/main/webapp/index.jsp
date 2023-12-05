@@ -10,7 +10,7 @@ String version=resource.getString("version");%>
 "Successfully for the first project using Maven"</h2>
  <h3>First CICD project is completed with jenkins And Ansible with roles concept for Oct2023 batch</h3>
 <h4>Docker container creation is completed with Ansible  </h4>
-<h5> Ansible with Roles playbook is completed in ENd to end CICD pipeline </h5>
+<h5> Ansible Concept is completed by using sepertae machines </h5>
 
   </body>
 </html>
