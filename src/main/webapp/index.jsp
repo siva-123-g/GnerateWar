@@ -3,7 +3,7 @@
  
 String version=resource.getString("version");%>
  
-<%=version %>
+<%=version $3212q
 <html>
 <body>
 <h2>War file is going to Deploy into   amazon EC2  instance using github 
