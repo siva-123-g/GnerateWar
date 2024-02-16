@@ -8,7 +8,7 @@ String version=resource.getString("version");%>
 <body>
 <h2>War file is going to Deploy into   amazon EC2  instance using github 
 "Successfully for the first project using Maven"</h2>
- <h3>First CICD project is completed with jenkins with deploy to container plugin for Jan2024Batch</h3>
+ <h3>End to end cicd pipeline by sing ansible playbook is completed for Jan2024Batch</h3>
 
   </body>
 </html>
