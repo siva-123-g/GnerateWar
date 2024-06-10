@@ -9,7 +9,7 @@ String version=resource.getString("version");%>
 <h2>War file is going to Deploy  into   amazon EC2  instance using github 
 "Successfully for the first project using Maven"
 </h2>
-<h3>Ansible concpet is complted with Rolespalaybook endto end for apr batch 24</h3>
+<h3>Docker deploymnet with jenkins is completed</h3>
 
   </body>
 </html>
